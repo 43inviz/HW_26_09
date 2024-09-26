@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\bin\Debug\net8.0\HW_26_09.exe
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\bin\Debug\net8.0\HW_26_09.deps.json
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\bin\Debug\net8.0\HW_26_09.runtimeconfig.json
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\bin\Debug\net8.0\HW_26_09.dll
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\bin\Debug\net8.0\HW_26_09.pdb
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\obj\Debug\net8.0\HW_26_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\obj\Debug\net8.0\HW_26_09.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\obj\Debug\net8.0\HW_26_09.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\obj\Debug\net8.0\HW_26_09.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\obj\Debug\net8.0\HW_26_09.sourcelink.json
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\obj\Debug\net8.0\HW_26_09.dll
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\obj\Debug\net8.0\refint\HW_26_09.dll
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\obj\Debug\net8.0\HW_26_09.pdb
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\obj\Debug\net8.0\HW_26_09.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects_C#\EFCore\HW_26_09\obj\Debug\net8.0\ref\HW_26_09.dll
